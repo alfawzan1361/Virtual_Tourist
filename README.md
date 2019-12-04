@@ -1,5 +1,5 @@
 # Virtual_Tourist
-###Udacity - iOS Developer Nanodegree - Virtual_Tourist Project
+Udacity - iOS Developer Nanodegree - Virtual_Tourist Project.  
 This app is a flickr API random images of specific location choosen.
 
 ## Implementation
